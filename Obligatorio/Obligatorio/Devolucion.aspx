@@ -6,6 +6,7 @@
 
     <div class="row">
         <div class="col-md-12">
+            <h2>Test</h2>
             <h2>Devolución de vehículos</h2>
            
         </div>
