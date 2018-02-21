@@ -68,3 +68,38 @@ E:\ORT\Semestre 2\Taller de objetos\Obligatorio\Obligatorio\Obligatorio\bin\Micr
 E:\ORT\Semestre 2\Taller de objetos\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
 E:\ORT\Semestre 2\Taller de objetos\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.dll
 E:\ORT\Semestre 2\Taller de objetos\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\csc.exe
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\vbc.exe
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Obligatorio.dll.config
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Obligatorio.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Obligatorio.pdb
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Antlr3.Runtime.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Newtonsoft.Json.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\System.Web.Optimization.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\WebGrease.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\System.Web.Optimization.xml
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Antlr3.Runtime.pdb
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Newtonsoft.Json.xml
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.dll
+C:\Users\User\Source\Repos\obligatorioObjetos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
