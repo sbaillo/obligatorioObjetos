@@ -14,7 +14,7 @@
 
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-
+    <script src="Scripts/js.js"></script>
 </head>
 <body>
     <form runat="server">
@@ -40,7 +40,7 @@
         </asp:ScriptManager>
 
 
-       <%--Menu con session--%>
+       <%--Menu con session--
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
@@ -61,10 +61,10 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div>--%>
 
 
-<%--        <div class="navbar navbar-inverse navbar-fixed-top">
+       <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -72,7 +72,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">AMIS Rent A Car</a>
+                    <a class="navbar-brand" runat="server" href="~/Home">AMIS Rent A Car</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
@@ -80,12 +80,12 @@
                     </ul>
                 </div>
             </div>
-        </div>--%>
+        </div>
 
 
 
-
-        <div class="container body-content">
+        <div class="container">
+        
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
 
             </asp:ContentPlaceHolder>
